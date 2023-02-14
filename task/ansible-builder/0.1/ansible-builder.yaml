@@ -11,6 +11,7 @@ metadata:
     tekton.dev/tags: ansible, ansible-builder, build-tool, automation
     tekton.dev/platforms: "linux/amd64"
     tekton.dev/signature: "test"
+    artifacthub.io/category: database
 spec:
   description: >-
     Creates a build context (including a Containerfile) from an execution environment spec.
