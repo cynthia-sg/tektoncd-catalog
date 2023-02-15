@@ -9,7 +9,7 @@ metadata:
     tekton.dev/pipelines.minVersion: "0.17.0"
     tekton.dev/tags: image-build
     tekton.dev/displayName: "Buildpacks"
-    tekton.dev/platforms: "linux/amd64
+    tekton.dev/platforms: "linux/amd64"
     artifacthub.io/category: storage
 spec:
   description: >-
