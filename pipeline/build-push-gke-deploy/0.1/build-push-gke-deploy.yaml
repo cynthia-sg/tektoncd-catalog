@@ -9,6 +9,7 @@ metadata:
     tekton.dev/pipelines.minVersion: '0.12.1'
     tekton.dev/tags: build, push, deploy
     tekton.dev/platforms: "linux/amd64"
+    artifacthub.io/category: skip-prediction
 spec:
   description: >-
     This Pipeline builds, pushes, and deploys your application to a Google Kubernetes
